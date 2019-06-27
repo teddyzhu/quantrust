@@ -1,0 +1,10 @@
+[package]
+name = "quantrust"
+version = "0.0.1"
+authors = ["teddyzhu <teddyzhu@live.com>"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4"
+float-cmp = "0.5"
+# date_time = "2.0.0"
